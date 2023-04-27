@@ -6,8 +6,11 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
+  DiRuby,
   DiPython,
   DiGit,
+  DiKotlin,
+  DiJava,
 } from "react-icons/di";
 import {
   SiPytorch,
@@ -34,6 +37,9 @@ function Techstack() {
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiRuby />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -47,6 +53,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPytorch />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiKotlin />
       </Col>
     </Row>
   );

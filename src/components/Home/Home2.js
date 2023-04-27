@@ -20,11 +20,14 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              something and i build things for web
+              I'm a software engineer specializing in building (and occasionally designing)
+              exceptional digital experiences.Currently, i'am focused on
+              building accessible,human-centered products at Upstatement.
               <br />
-              <br />I am fluent in classics like
+              <br />I am proefficient 
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> C++, Javascript, Ruby, Java, Kotlin, Python. </b>
               </i>
               <br />
               <br />
