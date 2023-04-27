@@ -9,8 +9,6 @@ import {
   DiRuby,
   DiPython,
   DiGit,
-  DiKotlin,
-  DiJava,
 } from "react-icons/di";
 import {
   SiPytorch,
@@ -53,12 +51,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPytorch />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiKotlin />
       </Col>
     </Row>
   );
